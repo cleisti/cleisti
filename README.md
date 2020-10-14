@@ -9,6 +9,8 @@ Since that I have learned basic skills in
 - CSS
 - Javascript
 - MySql
+- React
+- Bash
 
 as well as studied some UX/UI design and design thinking.<br>
 I have found web development extremely fun and rewarding, and hoping that at my first internship position I can continue to develop my skills in the area.
