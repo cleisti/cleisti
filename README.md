@@ -14,8 +14,7 @@ Since that I have learned basic skills in
 - HTML5
 - CSS
 
-- MySql
-- MongoDB
+- SQL & Mongo
 
 as well as studied some UX/UI design and design thinking.<br>
 I have found web development extremely fun and rewarding, and hoping that at my first internship position I can continue to develop my skills in the area.
@@ -24,7 +23,7 @@ My latest project was to build an instagram/snapchat like web-app, where users c
 
 My next project will be another web-app, this time a matchmaking tool like Tinder. For this project I have planned to use a PERN-stack, which will be all new to me.
 
-If you want to contact me, just send an email to camilla.leisti@gmail.com and I will get back to you ASAP! 🐯
+If you want to contact me, just send an email to camilla.leisti@gmail.com and I will get back to you 🐯
 
 <!--
 **cleisti/cleisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
